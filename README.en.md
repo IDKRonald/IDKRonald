@@ -27,7 +27,7 @@ WHERE  topic IN ('backend', 'databases', 'data pipelines', 'cloud');
 
 - My point-of-sale system is **in production** at a real pizzeria.
 - I worked as a **bilingual Transport Coordinator** at Exclusive Heavy Haul, coordinating logistics operations in English.
-- I was a **speaker** at the Data Science & AI research group *(Aperture Systems)* with an interactive, **detective-themed SQL** talk 🕵️.
+- I was a **speaker** at the Data Science & AI research group *(Aperture Systems)* with an interactive, **detective-themed SQL** talk.
 - I'm currently building my first end-to-end data project.
 
 ---
@@ -71,15 +71,14 @@ A **residential community management** platform. It's a layered REST API (routes
 
 ---
 
-### `$ git log --stats`
+### `$ git log --graph`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IDKRonald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDKRonald&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDKRonald&bg_color=0D1117&color=C9D1D9&line=22C55E&point=F0F6FC&area=true&area_color=22C55E&hide_border=true&custom_title=Activity" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-light.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---

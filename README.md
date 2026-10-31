@@ -27,7 +27,7 @@ WHERE  tema IN ('backend', 'bases de datos', 'pipelines de datos', 'nube');
 
 - Mi sistema POS está **en producción** en una pizzería real.
 - Trabajé como **Transport Coordinator bilingüe** en Exclusive Heavy Haul, coordinando operaciones logísticas en inglés.
-- Fui **ponente** en el Semillero de Ciencia de Datos e IA *(Aperture Systems)* con una charla interactiva de **SQL al estilo detectives** 🕵️.
+- Fui **ponente** en el Semillero de Ciencia de Datos e IA *(Aperture Systems)* con una charla interactiva de **SQL al estilo detectives**.
 - Ahora mismo estoy construyendo mi primer proyecto de datos de punta a punta.
 
 ---
@@ -71,15 +71,14 @@ Plataforma para la **gestión de unidades residenciales**. Es una API REST por c
 
 ---
 
-### `$ git log --stats`
+### `$ git log --graph`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IDKRonald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDKRonald&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&locale=es" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDKRonald&bg_color=0D1117&color=C9D1D9&line=22C55E&point=F0F6FC&area=true&area_color=22C55E&hide_border=true&custom_title=Actividad" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-light.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
