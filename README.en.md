@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronald-hernandez-g/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E" /></a>
-  <a href="mailto:rohernandezg@unal.edu.co"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
+  <a href="mailto:ronaldsneyder07@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
   <!-- <a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=22C55E" /></a> -->
   <img src="https://img.shields.io/badge/Spanish-Native-0D1117?style=flat-square&labelColor=0D1117&color=22C55E" />
 </p>
