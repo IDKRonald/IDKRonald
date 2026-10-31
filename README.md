@@ -75,8 +75,8 @@ Plataforma para la **gestión de unidades residenciales**. Es una API REST por c
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDKRonald/RonaldHernandez/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDKRonald/RonaldHernandez/output/snake-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-light.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/IDKRonald/IDKRonald/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
