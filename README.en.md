@@ -25,10 +25,10 @@ FROM   ronald
 WHERE  topic IN ('backend', 'databases', 'data pipelines', 'cloud');
 ```
 
-- 🍕 My point-of-sale system is **in production** at a real pizzeria.
-- 🚚 I worked as a **bilingual Transport Coordinator** at Exclusive Heavy Haul, coordinating logistics operations in English.
-- 🎤 I was a **speaker** at the Data Science & AI research group *(Aperture Systems)* with an interactive, **detective-themed SQL** talk 🕵️.
-- 🔨 I'm currently building my first end-to-end data project.
+- My point-of-sale system is **in production** at a real pizzeria.
+- I worked as a **bilingual Transport Coordinator** at Exclusive Heavy Haul, coordinating logistics operations in English.
+- I was a **speaker** at the Data Science & AI research group *(Aperture Systems)* with an interactive, **detective-themed SQL** talk 🕵️.
+- I'm currently building my first end-to-end data project.
 
 ---
 
@@ -37,7 +37,7 @@ WHERE  topic IN ('backend', 'databases', 'data pipelines', 'cloud');
 #### 🍕 PeñolinniPOS — `in production`
 Fullstack point-of-sale system for **Don Peñolinni** pizzeria (Guarne, Colombia). It replaced paper orders, which could get lost or damaged, with **digital orders and invoices synced in real time** between the register and the kitchen.
 
-> 📈 **Improved operational efficiency by ~20%.**
+> **Improved operational efficiency by ~20%.**
 
 `React 19` `Vite` `Tailwind CSS 4` `React Router 7` `Node.js` `Express 5` `Socket.IO` `SQLite`
 
