@@ -25,10 +25,10 @@ FROM   ronald
 WHERE  tema IN ('backend', 'bases de datos', 'pipelines de datos', 'nube');
 ```
 
-- 🍕 Mi sistema POS está **en producción** en una pizzería real.
-- 🚚 Trabajé como **Transport Coordinator bilingüe** en Exclusive Heavy Haul, coordinando operaciones logísticas en inglés.
-- 🎤 Fui **ponente** en el Semillero de Ciencia de Datos e IA *(Aperture Systems)* con una charla interactiva de **SQL al estilo detectives** 🕵️.
-- 🔨 Ahora mismo estoy construyendo mi primer proyecto de datos de punta a punta.
+- Mi sistema POS está **en producción** en una pizzería real.
+- Trabajé como **Transport Coordinator bilingüe** en Exclusive Heavy Haul, coordinando operaciones logísticas en inglés.
+- Fui **ponente** en el Semillero de Ciencia de Datos e IA *(Aperture Systems)* con una charla interactiva de **SQL al estilo detectives** 🕵️.
+- Ahora mismo estoy construyendo mi primer proyecto de datos de punta a punta.
 
 ---
 
@@ -37,7 +37,7 @@ WHERE  tema IN ('backend', 'bases de datos', 'pipelines de datos', 'nube');
 #### 🍕 PeñolinniPOS — `en producción`
 Punto de venta fullstack para la pizzería **Don Peñolinni** (Guarne, Antioquia). Reemplazó las comandas en papel, que se perdían o se dañaban, por **comandas y facturas digitales sincronizadas en tiempo real** entre caja y cocina.
 
-> 📈 **Aumentó la eficiencia de la operación en un ~20 %.**
+> **Aumentó la eficiencia de la operación en un ~20 %.**
 
 `React 19` `Vite` `Tailwind CSS 4` `React Router 7` `Node.js` `Express 5` `Socket.IO` `SQLite`
 
