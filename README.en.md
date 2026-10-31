@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronald-hernandez-g/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E" /></a>
-  <a href="mailto:ronaldsneyder07@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
+  <a href="mailto:rohernandezg@unal.edu.co"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
   <!-- <a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=22C55E" /></a> -->
   <img src="https://img.shields.io/badge/Spanish-Native-0D1117?style=flat-square&labelColor=0D1117&color=22C55E" />
 </p>
@@ -28,6 +28,7 @@ WHERE  topic IN ('backend', 'databases', 'data pipelines', 'cloud');
 - My point-of-sale system is **in production** at a real pizzeria.
 - I worked as a **bilingual Transport Coordinator** at Exclusive Heavy Haul, coordinating logistics operations in English.
 - I was a **speaker** at the Data Science & AI research group *(Aperture Systems)* with an interactive, **detective-themed SQL** talk.
+- I presented my research project **EasyParking** at the National and International Meeting of Research Seedbeds (**RedCOLSI**, 2023) and co-authored a paper on it in a SENA journal.
 - I'm currently building my first end-to-end data project.
 
 ---
@@ -57,14 +58,30 @@ A **residential community management** platform. It's a layered REST API (routes
 <!-- Check the repo name -->
 [→ View repository](https://github.com/IDKRonald/PortonApp)
 
+#### EasyParking — `research · SENA`
+A web platform to **automate and manage parking lots** in Guarne, Colombia, built with Scrum in SENA's Teleinformatics research group.
+
+- **AI license plate capture** and automatic parking-space assignment.
+- **Machine learning** models (decision trees with scikit-learn and intelligent agents with TensorFlow) to predict space availability, with **over 85% accuracy**.
+- Modules for spaces, customers, employees, vehicles, payments and rates. It logs entries and exits and uses username and password login.
+
+> Presented at the **XXVI National and XX International Meeting of Research Seedbeds (RedCOLSI)**, University of Cartagena, October 2023.
+> Published in *Revista Encuentro SENNOVA del Oriente Antioqueño*, 10(1), 5–18 (2024), under the title *Plataforma WEB para la automatización y control integral de parqueaderos Arparking*.
+
+`PHP` `JavaScript` `jQuery` `Python` `scikit-learn` `TensorFlow` `MySQL` `Scrum`
+
+<!-- Add the paper link here -->
+[→ Read paper](#)
+
 ---
 
 ### `$ stack`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 </p>
 
 **Learning:** Python for data · data modeling · ETL pipelines · cloud

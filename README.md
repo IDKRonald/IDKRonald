@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronald-hernandez-g/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22C55E" /></a>
-  <a href="mailto:ronaldsneyder07@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
+  <a href="mailto:rohernandezg@unal.edu.co"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22C55E" /></a>
   <!-- <a href="https://TU-PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-0D1117?style=flat-square&logo=googlechrome&logoColor=22C55E" /></a> -->
   <img src="https://img.shields.io/badge/English-B2-0D1117?style=flat-square&labelColor=0D1117&color=22C55E" />
 </p>
@@ -28,6 +28,7 @@ WHERE  tema IN ('backend', 'bases de datos', 'pipelines de datos', 'nube');
 - Mi sistema POS está **en producción** en una pizzería real.
 - Trabajé como **Transport Coordinator bilingüe** en Exclusive Heavy Haul, coordinando operaciones logísticas en inglés.
 - Fui **ponente** en el Semillero de Ciencia de Datos e IA *(Aperture Systems)* con una charla interactiva de **SQL al estilo detectives**.
+- Presenté mi proyecto de investigación **EasyParking** en el Encuentro Nacional e Internacional de Semilleros (**RedCOLSI**, 2023) y lo publiqué como coautor en una revista del SENA.
 - Ahora mismo estoy construyendo mi primer proyecto de datos de punta a punta.
 
 ---
@@ -57,14 +58,30 @@ Plataforma para la **gestión de unidades residenciales**. Es una API REST por c
 <!-- Verifica el nombre del repo -->
 [→ Ver repositorio](https://github.com/IDKRonald/PortonApp)
 
+#### EasyParking — `investigación · SENA`
+Plataforma web para **automatizar y controlar parqueaderos** en Guarne, Antioquia, desarrollada con Scrum en el semillero de Teleinformática del SENA.
+
+- **Captura de placas con IA** y asignación automática de celdas.
+- Modelos de **machine learning** (árboles de decisión con scikit-learn y agentes inteligentes con TensorFlow) para predecir la disponibilidad de espacios, con una **precisión superior al 85 %**.
+- Módulos de celdas, clientes, empleados, vehículos, pagos y tarifas. Registro de entradas y salidas, y acceso con usuario y contraseña.
+
+> Presentado en el **XXVI Encuentro Nacional y XX Internacional de Semilleros de Investigación (RedCOLSI)**, Universidad de Cartagena, octubre de 2023.
+> Publicado en la *Revista Encuentro SENNOVA del Oriente Antioqueño*, 10(1), 5–18 (2024), con el título *Plataforma WEB para la automatización y control integral de parqueaderos Arparking*.
+
+`PHP` `JavaScript` `jQuery` `Python` `scikit-learn` `TensorFlow` `MySQL` `Scrum`
+
+<!-- Pon aquí el enlace al artículo -->
+[→ Leer artículo](#)
+
 ---
 
 ### `$ stack`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 </p>
 
 **Aprendiendo:** Python para datos · modelado de datos · pipelines ETL · nube
